@@ -1,0 +1,10 @@
+{
+  "name":"Truong Anh Duc",
+  "gender":true,
+  "marks": 9.5,
+  "contact":{
+    "email":"duc@gmail.com",
+    "phone":"1234567890"
+  },
+  "subjects":["SOF3061","COM108"]
+}

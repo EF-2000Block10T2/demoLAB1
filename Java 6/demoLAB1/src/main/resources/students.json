@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Truong Anh Duc",
+    "gender": true,
+    "marks": 9.0,
+    "contact": {
+      "email": "duc@gmail.com",
+      "phone": "1234567890"
+    },
+    "subjects": ["SOF3061", "COM108"]
+  },
+  {
+    "name": "Huynh Thi Bao Tran",
+    "gender": false,
+    "marks": 9.2,
+    "contact": {
+      "email": "tran@gmail.com",
+      "phone": "0987654321"
+    },
+    "subjects": ["ENG102", "MATH205"]
+  },
+  {
+    "name": "Pham Tan Tai",
+    "gender": true,
+    "marks": 9.5,
+    "contact": {
+      "email": "tai@gmail.com",
+      "phone": "1122334455"
+    },
+    "subjects": ["PHY101", "CS303"]
+  },
+  {
+    "name": "Failed student",
+    "gender": true,
+    "marks": 3.5,
+    "contact": {
+      "email": "failed@student.com",
+      "phone": "0000000000"
+    },
+    "subjects": ["HIST100", "BIO150"]
+  }
+]
